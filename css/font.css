@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'monobit';
+    src: url('font/monobit.ttf');
+    src: url('font/monobit-webfont.woff2') format('woff2'),
+         url('font/monobit-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
